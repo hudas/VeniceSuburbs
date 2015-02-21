@@ -1,6 +1,4 @@
-Author: Ignas Bobinas
-
 Supported tasks:
 
-rake run file_name (rake run input.txt)
+rake run filename   (e.g. rake run input.txt)
 rake test
