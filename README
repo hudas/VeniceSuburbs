@@ -1,0 +1,6 @@
+Author: Ignas Bobinas
+
+Supported tasks:
+
+rake run file_name (rake run input.txt)
+rake test
